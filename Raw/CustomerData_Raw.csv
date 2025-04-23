@@ -1,0 +1,4 @@
+CustomerID,CustomerName,EmailAddress,PhoneNumber,Age
+101,Amit Sethi,amit.sethi@test.com,9876543210,35.0
+102,Preeti S,preeti.s@test.com,12345AB789,
+103,Rahul Sharma,rahul.sharma@test.com,9876-543-210,29.0
