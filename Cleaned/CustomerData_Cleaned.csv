@@ -1,0 +1,4 @@
+CustomerID,CustomerName,EmailAddress,PhoneNumber,Age,CleanedPhone,EmailValid
+101,Amit Sethi,amit.sethi@test.com,9876543210,35.0,9876543210,Valid
+102,Preeti S,preeti.s@test.com,12345AB789,,12345789,Valid
+103,Rahul Sharma,rahul.sharma@test.com,9876-543-210,29.0,9876543210,Valid
